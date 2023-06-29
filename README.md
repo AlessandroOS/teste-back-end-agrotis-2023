@@ -1,5 +1,8 @@
 # TESTE BACK-END AGROTIS 2023
-Repositório criado para o teste seletivo da Agrotis
+
+Este projeto foi desenvolvido como parte de um processo seletivo da empresa Agrotis e utiliza as seguintes tecnologias:
+
+Java, Spring Boot, banco de dados H2, Spring Data JPA, Swagger, JUnit, Maven.
 
 ## Acesso à documentação do Swagger
 Para acessar a documentação da API usando o Swagger, siga os passos abaixo:
